@@ -20,5 +20,6 @@ python3 find_route.py input1.txt Bremen Kassel h_kassel.txt
 For uninformed search 
 python3 find_route.py input1.txt Bremen Kassel
 
-# reference: https://www.redblobgames.com/pathfinding/a-star/implementation.html
-             https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb
+references: 
+https://www.redblobgames.com/pathfinding/a-star/implementation.html
+https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb
