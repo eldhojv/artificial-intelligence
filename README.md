@@ -1,5 +1,4 @@
-# artificial-intelligence
-Implementing various search algorithms 
+# Artificial Intelligence Implementing various search algorithms 
 Programming language: python3
 
 Implemented the search algorithm using A* search and uniform cost search algorithms
